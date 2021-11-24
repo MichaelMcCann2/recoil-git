@@ -3,3 +3,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.App {
+  height: 100vh;
+  position: relative;
+}
+
+.title {
+  text-align: center;
+  padding-top: 1em;
+}
+
+.themeButton {
+  position: absolute;
+  left: 100px;
+  top: 50px;
+}
