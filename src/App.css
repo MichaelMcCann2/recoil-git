@@ -19,3 +19,13 @@
   left: 100px;
   top: 50px;
 }
+
+.input {
+  text-align: center;
+  margin-top: 1em;
+}
+
+.listItem {
+  text-align: center;
+  margin: .5em;
+}
