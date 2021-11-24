@@ -9,6 +9,11 @@
   position: relative;
 }
 
+.dark {
+  background-color: rgb(32, 32, 32);
+  color: rgb(226, 226, 226);
+}
+
 .title {
   text-align: center;
   padding-top: 1em;
