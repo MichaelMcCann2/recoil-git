@@ -23,7 +23,7 @@ function App() {
       <Input />
 
       {list.map((item, index) => (
-        <Task key={index}/>
+        <Task key={index} item={item}/>
       ))}
     </div>
   );
