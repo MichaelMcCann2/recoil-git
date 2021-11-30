@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <button className="themeButton">Change Theme</button>
-      <h1 className="title">Todo list</h1>
+      <h1 className="title">Todo list V2.0</h1>
       <Input />
 
       {list.map((item, index) => (
